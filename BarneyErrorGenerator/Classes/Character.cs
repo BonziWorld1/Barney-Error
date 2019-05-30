@@ -4,6 +4,7 @@ using System.IO;
 
 namespace BarneyErrorGenerator
 {
+    # I initially planned to have multiple characters
     class Character
     {
         private Identity who { get; set; }
