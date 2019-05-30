@@ -1,0 +1,15 @@
+﻿<Window x:Class="BarneyErrorGenerator.PunishmentWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BarneyErrorGenerator"
+        mc:Ignorable="d"
+        Title="PunishmentWindow" Height="720" Width="1280">
+    <Grid Background="Black">
+        <Viewbox HorizontalAlignment="Left" VerticalAlignment="Top">
+            <Image x:Name="image" Height="9" Width="16"/>
+        </Viewbox>
+
+    </Grid>
+</Window>
